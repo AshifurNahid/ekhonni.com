@@ -1,8 +1,7 @@
 # ekhonni.com
 
-Description:
-The idea of this project is about selling second hand product, Seller can post their products and buyer can give an offer, if he accepts the offer than product will be sold to that buyer.
 
+This project is an online marketplace where people can sell their used stuff. Sellers post their items, and if someone likes it, they can make an offer to buy it. If the seller agrees to the offer, the item is sold to that buyer.
 
 Project Plan:
 1. Design Database
